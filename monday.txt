@@ -1,0 +1,5 @@
+roll no.1 is : p
+roll no.2 is : a
+roll no.3 is : p
+roll no.4 is : p
+roll no.5 is : a
